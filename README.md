@@ -4,7 +4,7 @@
 
 Will predict the close value of the Basic Attention Token currency based on its open value.
 
-![CryptoCurrency png](https://github.com/Scylidose/Predict_Stock_Prices/img/crypto_bat-img.png)  
+![CryptoCurrency png](https://github.com/Scylidose/Predict_Stock_Prices/blob/master/img/crypto_bat-img.png)  
 
 ## Features
 
