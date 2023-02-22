@@ -1,10 +1,10 @@
-# Predict Stock Price
+# BATPredict
 
 ## Overview 
 
 Will predict the close value of the Basic Attention Token currency based on its open value.
 
-![CryptoCurrency png](https://github.com/Scylidose/Predict_Stock_Prices/blob/master/img/crypto_bat-img.png)  
+![CryptoCurrency png](https://github.com/Scylidose/BATPredict/blob/master/img/crypto_bat-img.png)  
 
 ## Features
 
@@ -21,9 +21,9 @@ To clone and run this application, you'll need Git and Flask installed on your c
 
 ```bash
 # Retrieve git folder
-$ git clone https://github.com/Scylidose/Predict_Stock_Prices.git
+$ git clone https://github.com/Scylidose/BATPredict.git
 
-$ cd Predict_Stock_Prices/
+$ cd BATPredict/
 
 # Install dependencies 
 $ pip3 install -r requirements.txt
